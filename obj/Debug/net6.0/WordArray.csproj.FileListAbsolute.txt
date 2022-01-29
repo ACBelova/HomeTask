@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\HomeTask\WordArray\bin\Debug\net6.0\WordArray.exe
+C:\Users\Анна\Desktop\HomeTask\WordArray\bin\Debug\net6.0\WordArray.deps.json
+C:\Users\Анна\Desktop\HomeTask\WordArray\bin\Debug\net6.0\WordArray.runtimeconfig.json
+C:\Users\Анна\Desktop\HomeTask\WordArray\bin\Debug\net6.0\WordArray.dll
+C:\Users\Анна\Desktop\HomeTask\WordArray\bin\Debug\net6.0\ref\WordArray.dll
+C:\Users\Анна\Desktop\HomeTask\WordArray\bin\Debug\net6.0\WordArray.pdb
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.AssemblyInfo.cs
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.dll
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\ref\WordArray.dll
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.pdb
+C:\Users\Анна\Desktop\HomeTask\WordArray\obj\Debug\net6.0\WordArray.genruntimeconfig.cache
